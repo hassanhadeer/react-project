@@ -13,7 +13,10 @@
   text-decoration: none;
 }
 
+.SocialIcons {
+  max-width:32px;
+  margin:30px;
+}
 .Copyright {
   text-align: center;
-  margin-top: 100px;
 }
