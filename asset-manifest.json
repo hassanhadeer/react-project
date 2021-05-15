@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hassanhadeer/react-project.git/static/css/main.3c5b0db9.chunk.css",
+    "main.js": "/hassanhadeer/react-project.git/static/js/main.a18448c8.chunk.js",
+    "main.js.map": "/hassanhadeer/react-project.git/static/js/main.a18448c8.chunk.js.map",
+    "runtime-main.js": "/hassanhadeer/react-project.git/static/js/runtime-main.5c2ad10d.js",
+    "runtime-main.js.map": "/hassanhadeer/react-project.git/static/js/runtime-main.5c2ad10d.js.map",
+    "static/css/2.74c02967.chunk.css": "/hassanhadeer/react-project.git/static/css/2.74c02967.chunk.css",
+    "static/js/2.6ee1b3f9.chunk.js": "/hassanhadeer/react-project.git/static/js/2.6ee1b3f9.chunk.js",
+    "static/js/2.6ee1b3f9.chunk.js.map": "/hassanhadeer/react-project.git/static/js/2.6ee1b3f9.chunk.js.map",
+    "index.html": "/hassanhadeer/react-project.git/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/hassanhadeer/react-project.git/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.3c5b0db9.chunk.css.map": "/hassanhadeer/react-project.git/static/css/main.3c5b0db9.chunk.css.map",
+    "static/js/2.6ee1b3f9.chunk.js.LICENSE.txt": "/hassanhadeer/react-project.git/static/js/2.6ee1b3f9.chunk.js.LICENSE.txt",
+    "static/media/AboutImage.a7b94d91.png": "/hassanhadeer/react-project.git/static/media/AboutImage.a7b94d91.png",
+    "static/media/index.css": "/hassanhadeer/react-project.git/static/media/AppBKG.cb030c6a.jpeg",
+    "static/media/CareersImage.51e6ba5f.png": "/hassanhadeer/react-project.git/static/media/CareersImage.51e6ba5f.png",
+    "static/media/DesignImage.8aa8239f.png": "/hassanhadeer/react-project.git/static/media/DesignImage.8aa8239f.png",
+    "static/media/DomainImage.5d39ee77.png": "/hassanhadeer/react-project.git/static/media/DomainImage.5d39ee77.png",
+    "static/media/GraphicImage.6209af6a.png": "/hassanhadeer/react-project.git/static/media/GraphicImage.6209af6a.png",
+    "static/media/HomeImage.fe585b68.png": "/hassanhadeer/react-project.git/static/media/HomeImage.fe585b68.png",
+    "static/media/ManagmentImage.164e40fe.png": "/hassanhadeer/react-project.git/static/media/ManagmentImage.164e40fe.png",
+    "static/media/MarketingImage.95a45543.png": "/hassanhadeer/react-project.git/static/media/MarketingImage.95a45543.png",
+    "static/media/MediaImage.8d8aee17.png": "/hassanhadeer/react-project.git/static/media/MediaImage.8d8aee17.png",
+    "static/media/PortfolioImage.065afb0b.png": "/hassanhadeer/react-project.git/static/media/PortfolioImage.065afb0b.png",
+    "static/media/certificate.ca0fdebf.png": "/hassanhadeer/react-project.git/static/media/certificate.ca0fdebf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c2ad10d.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.6ee1b3f9.chunk.js",
+    "static/css/main.3c5b0db9.chunk.css",
+    "static/js/main.a18448c8.chunk.js"
+  ]
+}
