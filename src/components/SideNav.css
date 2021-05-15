@@ -1,0 +1,21 @@
+
+.SideNav {
+  text-align: left;
+  float: left;
+  padding-left:1%;
+  padding-top: 3vh;
+  width: 16%;
+  height: 90vh;
+  color:#fff;
+  background: linear-gradient(#000,#fff);
+  border-top-right-radius:50px;
+  border-bottom-right-radius:50px;
+  opacity: 0.9;
+  z-index:7;
+}
+
+.left-nav-link {
+  color:#fff;
+  font-size:0.8em;
+  text-decoration: none;
+}
