@@ -1,5 +1,8 @@
 {
   "name": "react-project",
+  "homepage": "https://github.com/hassanhadeer/react-project.git",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -b gh-pages -d build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
