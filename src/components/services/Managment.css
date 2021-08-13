@@ -1,0 +1,11 @@
+.Managment {
+  width: 84%;
+  height: 90vh;
+  float: left;
+  border-radius: 50px;
+  padding: 10%;
+  color:#fff;
+  display: block;
+  background: linear-gradient(#000,#fff);
+  border-left: 2px #dab6b6 solid;
+}

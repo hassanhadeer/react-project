@@ -1,0 +1,22 @@
+
+.Footer {
+  width: 100%;
+  height: 200px;
+  float: left;
+  padding-top: 25px;
+  background: #ccc;
+}
+
+.Fot-nav-link {
+  text-align: center;
+  margin-left: 12%;
+  text-decoration: none;
+}
+
+.SocialIcons {
+  max-width:32px;
+  margin:30px;
+}
+.Copyright {
+  text-align: center;
+}

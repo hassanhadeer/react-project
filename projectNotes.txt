@@ -1,0 +1,63 @@
+
+this project done as a student project by Hassan Hadeer
+
+
+// check node 
+	node --version
+// check git 
+	git --version
+// if not availabel we need to install it 
+	Install node from: 
+		https://nodejs.org/en/download/
+	Install git from:
+	https://git-scm.com/download/win
+	then run cmd:
+		npm i git-all
+// React extinsion to be in VS code 
+
+// create the app
+	npx create-react-app .
+
+// start the server to check the app 
+	npm start
+	
+	* ctrl-c to terminate , y
+
+//  Running and building the site:
+	npm run build
+
+// rmove any extra files 
+	we keep in src (App.css , App.js , Index.css , Index.js , )
+		in bublic (index.html , favicon.ico)
+
+// make the components folder 
+
+// start making the components files (.css & .js)
+	we use (rfc) in the js file to make the auto import
+
+// we need to import the file.css into the componentFile.js
+	import './Header.css'
+
+// import the componentFile.js in the App.js
+	import Header from './components/Header.js'
+
+// instal router to build the nave 
+	npm i react-router-dom
+
+// build your Idea :)
+	
+
+
+// installing bootstrap 5
+
+	npm install bootstrap
+	npm i bootstrap@5.0.0-alpha1
+	npm i bootstrap-icons
+
+// import this line to the index.html
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+		import 'bootstrap/dist/css/bootstrap.min.css'
+
+
+	
+	
